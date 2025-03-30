@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working with **BI, automation, and system development**.  
 - 🌱 I’m currently learning **Java** and improving my skills in **data analysis and automation**.  
-- 💬 Ask me about **Power BI, Power Automate, Python, SQL, and automation processes**.  
-- 📌 I'm developing **EcoFin**, a finance management app that organizes banking data in one place.  
-- ⚡ Fun fact: I enjoy automating repetitive tasks to make life easier!  
+- 💬 Ask me about **Power BI, Power Automate, Python, SQL, and automation processes**.   
 
 ### 🛠️ Technologies & Tools  
 - **Languages:** Java, Python, SQL  
