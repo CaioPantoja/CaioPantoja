@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-- 🔭 I’m currently working with **BI, automation, and system development**.  
+- 🔭 I’m currently working with **BI, RPA, and system development**.  
 - 🌱 I’m currently learning **Java** and improving my skills in **data analysis and automation**.  
 - 💬 Ask me about **Power BI, Power Automate, Python, SQL, and automation processes**.   
 
